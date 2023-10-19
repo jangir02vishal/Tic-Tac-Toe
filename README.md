@@ -2,9 +2,6 @@
 
 ## Project Description
 
-![TIctactoe](https://github.com/jangir02vishal/Tic-Tac-Toe/assets/136950731/5d59fc63-a66c-41d3-8113-79fafd1555b8)
-
-
 This repository houses a delightful implementation of the classic Tic Tac Toe game using React.js. The game offers an engaging user experience with features such as click sounds, striking patterns on the winning combination, confetti celebration upon victory, winner selection, and the ability to reset the game when it's over.
 
 ### Features
@@ -59,3 +56,5 @@ Now, you can enjoy a game of Tic Tac Toe with your friends or family and experie
 Feel free to contribute, report issues, or suggest improvements. Let's make Tic Tac Toe even more fun with React.js!
 
 Enjoy playing Tic Tac Toe! Have fun and may the best player win! 🎉🎮
+
+<img src="https://github.com/jangir02vishal/Tic-Tac-Toe/assets/136950731/5d59fc63-a66c-41d3-8113-79fafd1555b8" alt="Image Description" width="360" height="320">
